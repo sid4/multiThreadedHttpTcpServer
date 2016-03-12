@@ -1,0 +1,7 @@
+This is a multi-threaded HTTP TCP server
+
+For compiling:
+make -f make1
+
+For running:
+./server <portno>
